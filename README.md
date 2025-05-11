@@ -11,19 +11,21 @@ Neuropsychiatric disorders like ADHD often present differently across sexes. Usi
 
 The dataset is structured into:
 
+```
 root/
 ├── TRAIN_NEW/
-│ ├── TRAIN_FUNCTIONAL_CONNECTOME_MATRICES.csv
-│ ├── TRAIN_QUANTITATIVE_METADATA.csv
-│ ├── TRAIN_CATEGORICAL.csv
-│ └── TRAINING_SOLUTIONS.csv
+│   ├── TRAIN_FUNCTIONAL_CONNECTOME_MATRICES.csv  
+│   ├── TRAIN_QUANTITATIVE_METADATA.csv  
+│   ├── TRAIN_CATEGORICAL.csv  
+│   └── TRAINING_SOLUTIONS.csv  
 ├── TEST/
-│ ├── TEST_FUNCTIONAL_CONNECTOME_MATRICES.csv
-│ ├── TEST_QUANTITATIVE_METADATA.csv
-│ └── TEST_CATEGORICAL.csv
-├── Data_Dictionary_WiDS2025.xlsx
-├── sample_submission.csv
-└── adhd_model.ipynb
+│   ├── TEST_FUNCTIONAL_CONNECTOME_MATRICES.csv  
+│   ├── TEST_QUANTITATIVE_METADATA.csv  
+│   └── TEST_CATEGORICAL.csv  
+├── Data_Dictionary_WiDS2025.xlsx  
+├── sample_submission.csv  
+└── adhd_model.ipynb  
+```
 
 ## Insights
 
